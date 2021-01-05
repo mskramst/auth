@@ -1,19 +1,3 @@
-/*
-
-interface Taco {
-  name: string;
-  value: number;
-}
-
-const newTaco: Taco = {
-  name: 'Howdy',
-  value: 2
-}
-
-
-console.log(newTaco);
-*/
-
 
 import express, { Request, Response } from 'express';
 import path from 'path';
